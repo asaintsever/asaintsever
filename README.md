@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Recent releases
+<!-- recent_releases starts -->
+
+<!-- recent_releases ends -->
+More [recent releases](https://github.com/asaintsever/asaintsever/blob/main/releases.md)
+
+<table><tr><td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=asaintsever&count_private=true&show_icons=true&theme=transparent" alt="Alain's GitHub stats">
+</td><td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaintsever&langs_count=10&layout=compact" alt="Top Langs">
+</td></tr></table>
