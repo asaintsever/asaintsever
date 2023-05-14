@@ -134,7 +134,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n\n".join(
         [
-            "[{repo} {release}]({url}) - {published_day}".format(**release)
+            "* [{repo} {release}]({url}) - {published_day}".format(**release)
             for release in releases[:8]
         ]
     )
@@ -150,7 +150,7 @@ if __name__ == "__main__":
                 "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
                 "<br />{description}"
             ).format(
-                total_releases_md="- ([{} releases total]({}/releases)) ".format(
+                total_releases_md=" ([{} releases total]({}/releases)) ".format(
                     release["total_releases"], release["repo_url"]
                 )
                 if release["total_releases"] > 1
