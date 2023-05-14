@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [mysql-ndb-operator ](https://github.com/asaintsever/mysql-ndb-operator/releases/tag/release-als-0.1.2) - 2022-03-02
+* [mysql-ndb-operator 0.1.2-als](https://github.com/asaintsever/mysql-ndb-operator/releases/tag/release-als-0.1.2) - 2022-03-02
 
 * [open-vault-agent-injector v1.0.1](https://github.com/asaintsever/open-vault-agent-injector/releases/tag/v1.0.1) - 2021-11-11
 
-* [kafka-connect-http-sink ](https://github.com/asaintsever/kafka-connect-http-sink/releases/tag/v1.0.0) - 2021-09-23
+* [kafka-connect-http-sink v1.0.0](https://github.com/asaintsever/kafka-connect-http-sink/releases/tag/v1.0.0) - 2021-09-23
 <!-- recent_releases ends -->
 
 More [recent releases](https://github.com/asaintsever/asaintsever/blob/main/releases.md)
