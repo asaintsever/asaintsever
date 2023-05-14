@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!-- recent_releases starts -->
 
 <!-- recent_releases ends -->
+
 More [recent releases](https://github.com/asaintsever/asaintsever/blob/main/releases.md)
 
 <table><tr><td valign="top">
@@ -26,3 +27,5 @@ More [recent releases](https://github.com/asaintsever/asaintsever/blob/main/rele
 </td><td valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaintsever&langs_count=10&layout=compact" alt="Top Langs">
 </td></tr></table>
+
+<a href="https://github.com/asaintsever/asaintsever/actions"><img src="https://github.com/asaintsever/asaintsever/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>

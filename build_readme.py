@@ -1,6 +1,4 @@
 from python_graphql_client import GraphqlClient
-import feedparser
-import httpx
 import json
 import pathlib
 import re
@@ -24,8 +22,9 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+# Get releases from public repos in my GitHub org 'Weekend-Developers-League'
 organization_graphql = """
-  organization(login: "dogsheep") {
+  organization(login: "Weekend-Developers-League") {
     repositories(first: 100, privacy: PUBLIC) {
       pageInfo {
         hasNextPage
@@ -48,7 +47,7 @@ organization_graphql = """
   }
 """
 
-
+# Combine releases from org+my account (considering public repos only)
 def make_query(after_cursor=None, include_organization=False):
     return """
 query {
@@ -85,7 +84,7 @@ query {
 def fetch_releases(oauth_token):
     repos = []
     releases = []
-    repo_names = {"playing-with-actions"}  # Skip this one
+    repo_names = {"demo", "tinyworld-utils"}  # Exclude those repos
     has_next_page = True
     after_cursor = None
 
