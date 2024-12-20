@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->7<!-- releases_count ends --> releases across <!-- project_count starts -->5<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[vectorproxy](https://github.com/asaintsever/vectorproxy)**: [Vector Proxy 0.1.0](https://github.com/asaintsever/vectorproxy/releases/tag/0.1.0) - 2024-12-20
+* **[vectorproxy](https://github.com/asaintsever/vectorproxy)**: [0.1.0](https://github.com/asaintsever/vectorproxy/releases/tag/0.1.0) - 2024-12-20
 <br />Proxy to compute or delegate generation of vector embeddings before storage in vector stores
 * **[jExifToolGUI](https://github.com/asaintsever/jExifToolGUI)**: [2.1.0-als](https://github.com/asaintsever/jExifToolGUI/releases/tag/2.1.0-als) - 2024-10-26
 <br />jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
