@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->7<!-- releases_count ends --> releases across <!-- project_count starts -->5<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->10<!-- releases_count ends --> releases across <!-- project_count starts -->6<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[tinyworld](https://github.com/asaintsever/tinyworld)**: [v0.0.2-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-SNAPSHOT)  ([3 releases total](https://github.com/asaintsever/tinyworld/releases)) - 2025-09-27
+<br />TinyWorld - Travel the globe from your photos.
 * **[vectorproxy](https://github.com/asaintsever/vectorproxy)**: [0.1.0](https://github.com/asaintsever/vectorproxy/releases/tag/0.1.0) - 2024-12-20
 <br />Proxy to compute or delegate generation of vector embeddings before storage in vector stores
 * **[jExifToolGUI](https://github.com/asaintsever/jExifToolGUI)**: [2.1.0-als](https://github.com/asaintsever/jExifToolGUI/releases/tag/2.1.0-als) - 2024-10-26

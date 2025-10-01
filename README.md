@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [tinyworld v0.0.2-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-SNAPSHOT) - 2025-09-27
+
 * [vectorproxy 0.1.0](https://github.com/asaintsever/vectorproxy/releases/tag/0.1.0) - 2024-12-20
 
 * [jExifToolGUI 2.1.0-als](https://github.com/asaintsever/jExifToolGUI/releases/tag/2.1.0-als) - 2024-10-26
