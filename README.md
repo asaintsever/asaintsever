@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [tinyworld v0.0.2-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-SNAPSHOT) - 2025-09-27
+* [geosetter-lite 0.1.0](https://github.com/asaintsever/geosetter-lite/releases/tag/0.1.0) - 2025-11-28
+
+* [tinyworld v0.0.2-fix-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-fix-SNAPSHOT) - 2025-11-23
 
 * [vectorproxy 0.1.0](https://github.com/asaintsever/vectorproxy/releases/tag/0.1.0) - 2024-12-20
 
