@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->12<!-- releases_count ends --> releases across <!-- project_count starts -->7<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->13<!-- releases_count ends --> releases across <!-- project_count starts -->7<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[geosetter-lite](https://github.com/asaintsever/geosetter-lite)**: [0.1.0](https://github.com/asaintsever/geosetter-lite/releases/tag/0.1.0) - 2025-11-28
+* **[geosetter-lite](https://github.com/asaintsever/geosetter-lite)**: [0.2.0](https://github.com/asaintsever/geosetter-lite/releases/tag/0.2.0)  ([2 releases total](https://github.com/asaintsever/geosetter-lite/releases)) - 2025-11-29
 <br />Lightweight clone of GeoSetter in Python with some AI-based capabilities
 * **[tinyworld](https://github.com/asaintsever/tinyworld)**: [v0.0.2-fix-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-fix-SNAPSHOT)  ([4 releases total](https://github.com/asaintsever/tinyworld/releases)) - 2025-11-23
 <br />TinyWorld - Travel the globe from your photos.
