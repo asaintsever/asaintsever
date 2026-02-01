@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [geosetter-lite 0.3.0](https://github.com/asaintsever/geosetter-lite/releases/tag/0.3.0) - 2025-12-22
+* [geosetter-lite 0.6.0](https://github.com/asaintsever/geosetter-lite/releases/tag/0.6.0) - 2026-01-18
 
 * [tinyworld v0.0.2-fix-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-fix-SNAPSHOT) - 2025-11-23
 
