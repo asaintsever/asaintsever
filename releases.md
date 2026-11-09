@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->20<!-- releases_count ends --> releases across <!-- project_count starts -->7<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->22<!-- releases_count ends --> releases across <!-- project_count starts -->8<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ppdb](https://github.com/asaintsever/ppdb)**: [3.1.0](https://github.com/asaintsever/ppdb/releases/tag/3.1.0)  ([2 releases total](https://github.com/asaintsever/ppdb/releases)) - 2026-11-09
+<br />Scripts to import Portfolio Performance (https://github.com/portfolio-performance/portfolio) XML into a DB and export back
 * **[geosetter-lite](https://github.com/asaintsever/geosetter-lite)**: [2.0.0](https://github.com/asaintsever/geosetter-lite/releases/tag/2.0.0)  ([9 releases total](https://github.com/asaintsever/geosetter-lite/releases)) - 2026-10-10
 <br />Lightweight clone of GeoSetter in Python with some AI-based capabilities
 * **[tinyworld](https://github.com/asaintsever/tinyworld)**: [v0.0.2-fix-SNAPSHOT](https://github.com/asaintsever/tinyworld/releases/tag/v0.0.2-fix-SNAPSHOT)  ([4 releases total](https://github.com/asaintsever/tinyworld/releases)) - 2025-11-23
